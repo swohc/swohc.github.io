@@ -260,7 +260,8 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a {
   padding: 35px 0;
   margin-right: 30px;
-  color: #ccc;
+  /*color: #ccc;*/
+  color: #04718d;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 13px;
